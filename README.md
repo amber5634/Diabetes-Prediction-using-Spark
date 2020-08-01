@@ -53,7 +53,7 @@ Splitting the data into 70 % training data and 30 % test data.
 | min           | 0.0           | 0.0           |
 | max           | 1.0           | 1.0           |
 
-## Applying the predictions now for the training data set
+## Applying the predictions now for the test data set
 
 ```
 from pyspark.ml.evaluation import BinaryClassificationEvaluator
